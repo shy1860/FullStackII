@@ -1,0 +1,1 @@
+This week was a refresher on ES6

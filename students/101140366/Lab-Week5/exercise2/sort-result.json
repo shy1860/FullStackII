@@ -1,0 +1,42 @@
+{
+	"_id" : ObjectId("5e387b8310b74873847a3006"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Wasabi Sushi",
+	"restaurant_id" : "40398000"
+}
+{
+	"_id" : ObjectId("5e387e3110b74873847a3011"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Wasabi Sushi",
+	"restaurant_id" : "40398000"
+}
+{
+	"_id" : ObjectId("5e387e8f10b74873847a301c"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Wasabi Sushi",
+	"restaurant_id" : "40398000"
+}
+{
+	"_id" : ObjectId("5e387b8310b74873847a3005"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Iron Chef House",
+	"restaurant_id" : "40397699"
+}
+{
+	"_id" : ObjectId("5e387e3110b74873847a3010"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Iron Chef House",
+	"restaurant_id" : "40397699"
+}
+{
+	"_id" : ObjectId("5e387e8f10b74873847a301b"),
+	"city" : "Brooklyn",
+	"cuisine" : "Japanese",
+	"name" : "Iron Chef House",
+	"restaurant_id" : "40397699"
+}

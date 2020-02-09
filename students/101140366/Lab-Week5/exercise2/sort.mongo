@@ -1,0 +1,5 @@
+// Include the id, cuisines, name and city, resturant_id columns.
+db.getCollection('Restaurants').find(
+    {"cuisine":{$eq: "Japanese"}},
+    {"cuisine":1,"name":1,"city":1,"restaurant_id":1}
+).sort({"restaurant_id":-1}).pretty()

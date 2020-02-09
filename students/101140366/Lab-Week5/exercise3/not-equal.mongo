@@ -1,0 +1,5 @@
+// Not Equal
+db.getCollection('Restaurants').find(
+    {"cuisine":{$ne:"Japanese"}},
+    {"_id":0,"cuisine":1,"name":1,"city":1}
+).sort({"name":1}).pretty()

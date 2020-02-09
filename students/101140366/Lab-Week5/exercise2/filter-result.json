@@ -1,0 +1,1 @@
+{ "_id" : ObjectId("5e387b8310b74873847a3000"), "address" : { "street" : "Thai Son Street", "zipcode" : null }, "city" : "Manhattan", "cuisine" : "Vietnamese", "name" : "Pho Me Long Time", "restaurant_id" : "30075455" }

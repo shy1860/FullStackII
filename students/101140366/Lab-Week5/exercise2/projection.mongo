@@ -1,0 +1,4 @@
+db.getCollection('Restaurants').find(
+    {"cuisine":"Vietnamese"},
+    {"cuisine":1, "name":1}
+)
