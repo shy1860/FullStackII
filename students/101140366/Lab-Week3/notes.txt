@@ -1,8 +1,0 @@
-Stream
-Example: How stream is processed?
-From point A to point B
- 
-Web Socket: allows to build live communication, creates a stream to allow live data transportation
-A is client and B is server
-A is responsible for connecting to the server
-HTTP to WSS

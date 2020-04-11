@@ -1,1 +1,0 @@
-This week we looked more at the file system using Nodes `fs` module. We also explored the process object.

@@ -1,3 +1,0 @@
-// Exercise 2: Filter
-db.getCollection('Restaurants').find({"cuisine":"Vietnamese"})
-// Exercise 2: Projections

@@ -1,1 +1,0 @@
-Last week we looked at Streams, Buffers and Sockets. We built a chat room using Socket.io

@@ -1,1 +1,0 @@
-This week we looked at the core concepts of Node and it's event driven architcture. We looked at some asynchronous patterns that we can leverage to write optimal code.
